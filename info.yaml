@@ -16,13 +16,13 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "clk"
-  ui[1]: "RST N"
+  ui[0]: ""
+  ui[1]: ""
   ui[2]: "in0"
   ui[3]: "in1"
   ui[4]: "in2"
   ui[5]: "in3"
-  ui[6]: "in4"
+  ui[6]: ""
   ui[7]: ""
 
   # Outputs
